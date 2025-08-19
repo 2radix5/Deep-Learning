@@ -5,4 +5,13 @@ __pycache__/
   *.xlsx
   *.zip
   *.tif
+  *.tiff
+  *.png
+  *.jpg
+  *.jpeg
+  *.gif
+  *.bmp
+  *.ico
+  *.webp
+  *.svg
   .DS_Store
