@@ -1,17 +1,17 @@
 __pycache__/
-  *.pyc
-  .ipynb_checkpoints/
-  *.csv
-  *.xlsx
-  *.zip
-  *.tif
-  *.tiff
-  *.png
-  *.jpg
-  *.jpeg
-  *.gif
-  *.bmp
-  *.ico
-  *.webp
-  *.svg
-  .DS_Store
+*.pyc
+.ipynb_checkpoints/
+*.csv
+*.xlsx
+*.zip
+*.tif
+*.tiff
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.ico
+*.webp
+*.svg
+.DS_Store
